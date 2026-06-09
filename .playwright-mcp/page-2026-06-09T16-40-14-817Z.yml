@@ -1,0 +1,55 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e88]
+  - button "Open Next.js Dev Tools" [ref=e94] [cursor=pointer]:
+    - img [ref=e95]
+  - generic [ref=e98]:
+    - link "← Volver a cursos" [ref=e100] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e101]:
+      - img [ref=e103]
+      - generic [ref=e104]:
+        - heading [level=1]
+        - paragraph [ref=e105]: Por
+        - paragraph [ref=e106]: Aprende React desde cero hasta convertirte en un desarrollador profesional
+        - generic [ref=e107]:
+          - generic [ref=e108]: "Duración total: NaNh NaNm"
+          - generic [ref=e109]: 3 clases
+        - generic [ref=e110]:
+          - heading "Calificaciones" [level=3] [ref=e111]
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e114]: "4.0"
+              - generic [ref=e115]: / 5
+              - generic [ref=e116]: 1 calificación
+            - generic [ref=e117]:
+              - paragraph [ref=e118]: "Deja tu calificación:"
+              - generic [ref=e119]:
+                - button "1 estrella" [ref=e120] [cursor=pointer]: ★
+                - button "2 estrellas" [ref=e121] [cursor=pointer]: ★
+                - button "3 estrellas" [ref=e122] [cursor=pointer]: ★
+                - button "4 estrellas" [ref=e123] [cursor=pointer]: ★
+                - button "5 estrellas" [ref=e124] [cursor=pointer]: ★
+    - generic [ref=e125]:
+      - heading "Contenido del curso" [level=2] [ref=e126]
+      - generic [ref=e127]:
+        - link "01 Conceptos básicos de React y JSX NaNh NaNm" [ref=e128] [cursor=pointer]:
+          - /url: /classes/1
+          - generic [ref=e129]: "01"
+          - generic [ref=e130]:
+            - heading [level=3]
+            - paragraph [ref=e131]: Conceptos básicos de React y JSX
+            - generic [ref=e132]: NaNh NaNm
+        - link "02 Creación de componentes reutilizables NaNh NaNm" [ref=e133] [cursor=pointer]:
+          - /url: /classes/2
+          - generic [ref=e134]: "02"
+          - generic [ref=e135]:
+            - heading [level=3]
+            - paragraph [ref=e136]: Creación de componentes reutilizables
+            - generic [ref=e137]: NaNh NaNm
+        - link "03 Manejo del estado y eventos en React NaNh NaNm" [ref=e138] [cursor=pointer]:
+          - /url: /classes/3
+          - generic [ref=e139]: "03"
+          - generic [ref=e140]:
+            - heading [level=3]
+            - paragraph [ref=e141]: Manejo del estado y eventos en React
+            - generic [ref=e142]: NaNh NaNm

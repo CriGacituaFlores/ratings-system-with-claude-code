@@ -1,0 +1,36 @@
+[     458ms] [INFO] Resource Sentinel initialized... @ https://app.notion.com/my-integrations?assetsVersion=23.13.20260609.1044&__dm_a=1:0
+[     825ms] [INFO] 2026-06-09T16:48:13.027Z [info] FeatureFlagTransactionQueue: preferIndexedDB {team: no-team-specified} @ https://app.notion.com/_assets/app-cb743fad3ec11534.js:6
+[    1236ms] [WARNING] Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep @ https://app.notion.com/_assets/wasm-sqlite-worker-db7439271c9bbabf.js:0
+[    1373ms] [LOG] %c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.so/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” -- Ivan Zhao (2023-07-14)
+				  font-family: monospace @ https://app.notion.com/_assets/mainApp-65999bc7b698563d.js:37
+[    1531ms] [INFO] 2026-06-09T16:48:13.733Z [info] sqliteSchemaHelpers: attemptFastForwardMigration {data: Object} @ https://app.notion.com/_assets/app-cb743fad3ec11534.js:6
+[    1559ms] [INFO] 2026-06-09T16:48:13.762Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/app-cb743fad3ec11534.js:6
+[    1577ms] [INFO] 2026-06-09T16:48:13.779Z [info] sqliteSchemaHelpers: successfulFastForwardMigration {data: Object} @ https://app.notion.com/_assets/app-cb743fad3ec11534.js:6
+[    1794ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://app.notion.com/_assets/76406-6b42df3763f56eeb.js:472
+[    1796ms] [INFO] 2026-06-09T16:48:13.998Z [error] eventTrailApiHelpers: trackFailure {error: Object} @ https://app.notion.com/_assets/76406-6b42df3763f56eeb.js:472
+[   10459ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://app.notion.com/_assets/76406-6b42df3763f56eeb.js:472
+[   28997ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.metadata.io/pixel/config/1127.json:0
+[   31497ms] [INFO] 2026-06-09T16:48:43.699Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/76406-6b42df3763f56eeb.js:472
+[   61496ms] [INFO] 2026-06-09T16:49:13.698Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/76406-6b42df3763f56eeb.js:472
+[   91501ms] [INFO] 2026-06-09T16:49:43.703Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/76406-6b42df3763f56eeb.js:472

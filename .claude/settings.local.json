@@ -17,7 +17,11 @@
       "Bash(git rm *)",
       "Bash(git commit -m ' *)",
       "Bash(git config *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "PowerShell(\\(Get-ChildItem \"C:\\\\Users\\\\criga\\\\Desktop\\\\Cloude project\\\\node_modules\" -Recurse | Measure-Object -Property Length -Sum\\).Sum / 1MB | ForEach-Object { \"{0:N2} MB\" -f $_ })",
+      "PowerShell(\\(Get-ChildItem \"C:\\\\Users\\\\criga\\\\Desktop\\\\Cloude project\\\\.playwright-mcp\" -Recurse | Measure-Object -Property Length -Sum\\).Sum / 1MB | ForEach-Object { \"{0:N2} MB\" -f $_ })",
+      "PowerShell(\\(Get-ChildItem \"C:\\\\Users\\\\criga\\\\Desktop\\\\Cloude project\\\\Platzi 1\" -Recurse | Measure-Object -Property Length -Sum\\).Sum / 1MB | ForEach-Object { \"{0:N2} MB\" -f $_ })",
+      "PowerShell(Get-ChildItem \"C:\\\\Users\\\\criga\\\\Desktop\\\\Cloude project\\\\Platzi 1\" -Recurse -File | Where-Object { $_.Length -gt 50MB } | Select-Object FullName, @{N='Size_MB';E={\"{0:N1} MB\" -f \\($_.Length/1MB\\)}} | Sort-Object Length -Descending)"
     ]
   }
 }

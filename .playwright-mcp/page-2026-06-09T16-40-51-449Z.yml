@@ -1,0 +1,48 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e88]
+  - button "Open Next.js Dev Tools" [ref=e94] [cursor=pointer]:
+    - img [ref=e95]
+  - generic [ref=e229]:
+    - link "← Volver a cursos" [ref=e231] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e232]:
+      - img [ref=e234]
+      - generic [ref=e235]:
+        - heading [level=1]
+        - paragraph [ref=e236]: Por
+        - paragraph [ref=e237]: Domina Python y sus frameworks más populares
+        - generic [ref=e238]:
+          - generic [ref=e239]: "Duración total: NaNh NaNm"
+          - generic [ref=e240]: 2 clases
+        - generic [ref=e241]:
+          - heading "Calificaciones" [level=3] [ref=e242]
+          - generic [ref=e243]:
+            - generic [ref=e244]:
+              - generic [ref=e245]: "5.0"
+              - generic [ref=e246]: / 5
+              - generic [ref=e247]: 1 calificación
+            - generic [ref=e248]:
+              - paragraph [ref=e249]: "Deja tu calificación:"
+              - generic [ref=e250]:
+                - button "1 estrella" [ref=e251] [cursor=pointer]: ★
+                - button "2 estrellas" [ref=e252] [cursor=pointer]: ★
+                - button "3 estrellas" [ref=e253] [cursor=pointer]: ★
+                - button "4 estrellas" [ref=e254] [cursor=pointer]: ★
+                - button "5 estrellas" [ref=e255] [cursor=pointer]: ★
+    - generic [ref=e256]:
+      - heading "Contenido del curso" [level=2] [ref=e257]
+      - generic [ref=e258]:
+        - link "01 Sintaxis básica y tipos de datos NaNh NaNm" [ref=e259] [cursor=pointer]:
+          - /url: /classes/4
+          - generic [ref=e260]: "01"
+          - generic [ref=e261]:
+            - heading [level=3]
+            - paragraph [ref=e262]: Sintaxis básica y tipos de datos
+            - generic [ref=e263]: NaNh NaNm
+        - link "02 Organización del código con funciones NaNh NaNm" [ref=e264] [cursor=pointer]:
+          - /url: /classes/5
+          - generic [ref=e265]: "02"
+          - generic [ref=e266]:
+            - heading [level=3]
+            - paragraph [ref=e267]: Organización del código con funciones
+            - generic [ref=e268]: NaNh NaNm

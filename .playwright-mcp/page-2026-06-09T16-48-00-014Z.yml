@@ -1,0 +1,122 @@
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e94]:
+      - complementary "Developer portal navigation" [ref=e95]:
+        - navigation [ref=e96]:
+          - button "Back to Notion" [ref=e98] [cursor=pointer]:
+            - img [ref=e100]
+            - generic [ref=e102]: Back to Notion
+          - button "Notion Developers" [ref=e103] [cursor=pointer]:
+            - img "Notion" [ref=e104]
+            - generic [ref=e107]: Developers
+          - generic [ref=e109]:
+            - button "Get started" [ref=e110] [cursor=pointer]:
+              - img [ref=e111]
+              - text: Get started
+            - button "Connections" [ref=e114] [cursor=pointer]:
+              - img [ref=e115]
+              - text: Connections
+            - button "Workers" [ref=e117] [cursor=pointer]:
+              - img [ref=e118]
+              - text: Workers
+            - button "Personal access tokens" [ref=e120] [cursor=pointer]:
+              - img [ref=e121]
+              - text: Personal access tokens
+          - generic [ref=e124]:
+            - generic [ref=e125]: Logged in as
+            - generic [ref=e126]:
+              - img "Cristian Gacitua Flores" [ref=e130]
+              - generic [ref=e131]:
+                - generic [ref=e132]: Cristian Gacitua Flores
+                - generic [ref=e133]: cri.gacitua.flores@gmail.com
+      - main [ref=e134]:
+        - generic [ref=e137]:
+          - link "Developer docs" [ref=e138] [cursor=pointer]:
+            - /url: https://developers.notion.com/
+            - text: Developer docs
+            - img [ref=e139]
+          - link "API status" [ref=e141] [cursor=pointer]:
+            - /url: https://status.notion.so/
+            - text: API status
+            - img [ref=e142]
+        - generic [ref=e145]:
+          - generic [ref=e146]:
+            - heading "Connections" [level=1] [ref=e147]
+            - generic [ref=e148]:
+              - text: Create and manage public and private API connections to Notion.
+              - link "Learn more" [ref=e149] [cursor=pointer]:
+                - /url: https://developers.notion.com/
+          - generic [ref=e150]:
+            - button "Filter connections" [ref=e152] [cursor=pointer]:
+              - img [ref=e153]
+            - button "Search connections…" [ref=e156] [cursor=pointer]:
+              - img [ref=e157]
+            - button "New connection" [ref=e159] [cursor=pointer]:
+              - img [ref=e160]
+              - text: New connection
+          - generic [ref=e163]:
+            - table [ref=e164]:
+              - rowgroup [ref=e165]:
+                - row "Connection Installable in Auth type Created" [ref=e166]:
+                  - columnheader "Connection" [ref=e167]:
+                    - button "Connection" [ref=e169] [cursor=pointer]:
+                      - generic [ref=e170]: Connection
+                  - columnheader "Installable in" [ref=e171]:
+                    - button "Installable in" [ref=e173] [cursor=pointer]:
+                      - generic [ref=e174]: Installable in
+                  - columnheader "Auth type" [ref=e175]:
+                    - button "Auth type" [ref=e177] [cursor=pointer]:
+                      - generic [ref=e178]: Auth type
+                  - columnheader "Created" [ref=e179]:
+                    - button "Created" [ref=e181] [cursor=pointer]:
+                      - generic [ref=e182]: Created
+              - rowgroup
+            - generic [ref=e184]: No connections yet
+    - generic:
+      - dialog [ref=e187]:
+        - button "Dismiss" [ref=e188] [cursor=pointer]:
+          - img [ref=e189]
+        - generic [ref=e194]:
+          - generic [ref=e196]:
+            - generic [ref=e197]: New connection
+            - generic [ref=e198]: Create a connection to authenticate apps, agents, and workflows with Notion. Choose a single or multi-workspace scope.
+          - generic [ref=e202]:
+            - generic [ref=e203]:
+              - generic [ref=e204]:
+                - generic [ref=e205]: Connection name
+                - textbox "Cristian Gacitua Flores’s connection" [ref=e207]: Claude Code
+              - generic [ref=e208]:
+                - generic [ref=e209]: Authentication method
+                - generic [ref=e210]:
+                  - generic [ref=e212] [cursor=pointer]:
+                    - radio "Access token Workspace-scoped static API token, shared across collaborators, with its own access settings. Limited to 1 workspace and not Marketplace-eligible." [checked] [ref=e214]
+                    - generic [ref=e216]:
+                      - generic [ref=e217]: Access token
+                      - generic [ref=e218]: Workspace-scoped static API token, shared across collaborators, with its own access settings. Limited to 1 workspace and not Marketplace-eligible.
+                  - generic [ref=e220] [cursor=pointer]:
+                    - radio "OAuth User-scoped OAuth 2.0, with access limited to the signed-in user. Supports multiple workspaces and is Marketplace-eligible." [ref=e222]
+                    - generic [ref=e224]:
+                      - generic [ref=e225]: OAuth
+                      - generic [ref=e226]: User-scoped OAuth 2.0, with access limited to the signed-in user. Supports multiple workspaces and is Marketplace-eligible.
+              - generic [ref=e227]:
+                - generic [ref=e228]:
+                  - generic [ref=e229]: Installable in
+                  - generic [ref=e230]: This token is scoped to the selected workspace
+                - button "Select workspace" [expanded] [active] [ref=e233] [cursor=pointer]:
+                  - text: Select workspace
+                  - img [ref=e234]
+            - generic [ref=e236]:
+              - button "Create connection" [disabled] [ref=e237]
+              - generic [ref=e238]:
+                - text: By creating a connection, you agree to Notion’s
+                - link "Developer Terms" [ref=e239] [cursor=pointer]:
+                  - /url: https://www.notion.so/notion/Developer-Terms-ba4131408d0844e08330da2cbb225c20
+                - text: .
+      - dialog [ref=e243]:
+        - generic [ref=e244]:
+          - generic [ref=e247]: No available workspaces. Contact a workspace owner for more information.
+          - contentinfo
+    - status [ref=e91]
+    - alert [ref=e92]
+  - iframe [ref=e93]:
+    

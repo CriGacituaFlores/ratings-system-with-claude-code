@@ -1,0 +1,84 @@
+[     266ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383
+[     904ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=React+Course:0
+[     928ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=JavaScript+Course:0
+[     939ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=Python+Course:0
+[     945ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/favicon.ico:0
+[  105737ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  106184ms] [LOG] [Fast Refresh] done in 552ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  106670ms] [WARNING] %c%s%c  background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   Error: Route "/course/[slug]" used `params.slug`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at CoursePage (rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?35:598:51)
+    at resolveErrorDev (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17582:48)
+    at getOutlinedModel (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17283:28)
+    at parseModelString (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17362:52)
+    at Array.<anonymous> (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17839:51)
+    at JSON.parse (<anonymous>)
+    at resolveConsoleEntry (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17719:32)
+    at processFullStringRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17816:17)
+    at processFullBinaryRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17786:9)
+    at progress (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17932:102) @ rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?35:597
+[  106708ms] [WARNING] %c%s%c  background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   Error: Route "/course/[slug]" used `params.slug`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?46:610:51)
+    at resolveErrorDev (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17582:48)
+    at getOutlinedModel (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17283:28)
+    at parseModelString (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17362:52)
+    at Array.<anonymous> (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17839:51)
+    at JSON.parse (<anonymous>)
+    at resolveConsoleEntry (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17719:32)
+    at processFullStringRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17816:17)
+    at processFullBinaryRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17786:9)
+    at progress (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17932:102) @ rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?46:609
+[  107281ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=React+Course:0
+[  128195ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=React+Course:0
+[  128210ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=Python+Course:0
+[  128223ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=JavaScript+Course:0
+[  137458ms] [WARNING] %c%s%c  background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   Error: Route "/course/[slug]" used `params.slug`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at CoursePage (rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?35:598:51)
+    at resolveErrorDev (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17582:48)
+    at getOutlinedModel (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17283:28)
+    at parseModelString (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17362:52)
+    at Array.<anonymous> (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17839:51)
+    at JSON.parse (<anonymous>)
+    at resolveConsoleEntry (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17719:32)
+    at processFullStringRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17816:17)
+    at processFullBinaryRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17786:9)
+    at progress (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17932:102) @ rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?35:597
+[  137469ms] [WARNING] %c%s%c  background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   Error: Route "/course/[slug]" used `params.slug`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?46:610:51)
+    at resolveErrorDev (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17582:48)
+    at getOutlinedModel (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17283:28)
+    at parseModelString (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17362:52)
+    at Array.<anonymous> (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17839:51)
+    at JSON.parse (<anonymous>)
+    at resolveConsoleEntry (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17719:32)
+    at processFullStringRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17816:17)
+    at processFullBinaryRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17786:9)
+    at progress (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17932:102) @ rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?46:609
+[  138061ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=Python+Course:0
+[  152024ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=React+Course:0
+[  152027ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=Python+Course:0
+[  152029ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=JavaScript+Course:0
+[  161417ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  161428ms] [LOG] [Fast Refresh] done in 116ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  161436ms] [WARNING] %c%s%c  background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   Error: Route "/course/[slug]" used `params.slug`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at CoursePage (rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?35:598:51)
+    at resolveErrorDev (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17582:48)
+    at getOutlinedModel (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17283:28)
+    at parseModelString (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17362:52)
+    at Array.<anonymous> (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17839:51)
+    at JSON.parse (<anonymous>)
+    at resolveConsoleEntry (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17719:32)
+    at processFullStringRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17816:17)
+    at processFullBinaryRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17786:9)
+    at progress (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17932:102) @ rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?35:597
+[  161443ms] [WARNING] %c%s%c  background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   Error: Route "/course/[slug]" used `params.slug`. `params` should be awaited before using its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+    at Module.generateMetadata (rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?46:610:51)
+    at resolveErrorDev (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17582:48)
+    at getOutlinedModel (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17283:28)
+    at parseModelString (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17362:52)
+    at Array.<anonymous> (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17839:51)
+    at JSON.parse (<anonymous>)
+    at resolveConsoleEntry (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17719:32)
+    at processFullStringRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17816:17)
+    at processFullBinaryRow (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17786:9)
+    at progress (http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:17932:102) @ rsc://React/Server/C:%5CUsers%5Ccriga%5CDesktop%5CCloude%20project%5CPlatzi%201%5Cclaude-code%5CFrontend%5C.next%5Cserver%5Cchunks%5Cssr%5C_9dd1df85._.js?46:609
+[  162030ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://via.placeholder.com/300x200?text=JavaScript+Course:0

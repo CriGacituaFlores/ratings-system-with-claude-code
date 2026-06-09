@@ -1,0 +1,40 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e88]: undefined - Curso Online
+  - button "Open Next.js Dev Tools" [ref=e94] [cursor=pointer]:
+    - img [ref=e95]
+  - generic [ref=e355]:
+    - link "← Volver a cursos" [ref=e357] [cursor=pointer]:
+      - /url: /
+    - generic [ref=e358]:
+      - img [ref=e360]
+      - generic [ref=e361]:
+        - heading [level=1]
+        - paragraph [ref=e362]: Por
+        - paragraph [ref=e363]: JavaScript moderno y sus mejores prácticas
+        - generic [ref=e364]:
+          - generic [ref=e365]: "Duración total: NaNh NaNm"
+          - generic [ref=e366]: 1 clases
+        - generic [ref=e367]:
+          - heading "Calificaciones" [level=3] [ref=e368]
+          - generic [ref=e369]:
+            - generic [ref=e370]:
+              - generic [ref=e371]: "0.0"
+              - generic [ref=e372]: / 5
+              - generic [ref=e373]: 0 calificaciones
+            - generic [ref=e374]:
+              - paragraph [ref=e375]: "Deja tu calificación:"
+              - generic [ref=e376]:
+                - button "1 estrella" [ref=e377] [cursor=pointer]: ★
+                - button "2 estrellas" [ref=e378] [cursor=pointer]: ★
+                - button "3 estrellas" [ref=e379] [cursor=pointer]: ★
+                - button "4 estrellas" [ref=e380] [cursor=pointer]: ★
+                - button "5 estrellas" [ref=e381] [cursor=pointer]: ★
+    - generic [ref=e382]:
+      - heading "Contenido del curso" [level=2] [ref=e383]
+      - link "01 ES6+ y nuevas características NaNh NaNm" [ref=e385] [cursor=pointer]:
+        - /url: /classes/6
+        - generic [ref=e386]: "01"
+        - generic [ref=e387]:
+          - heading [level=3]
+          - paragraph [ref=e388]: ES6+ y nuevas características
+          - generic [ref=e389]: NaNh NaNm

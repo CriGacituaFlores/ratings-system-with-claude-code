@@ -1,0 +1,61 @@
+[     162ms] [INFO] Resource Sentinel initialized... @ https://www.notion.so/profile/integrations:0
+[     368ms] [INFO] 2026-06-09T16:46:46.994Z [info] FeatureFlagTransactionQueue: preferIndexedDB {team: no-team-specified} @ https://www.notion.so/_assets/app-cb743fad3ec11534.js:6
+[     613ms] [WARNING] Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep @ https://www.notion.so/_assets/wasm-sqlite-worker-db7439271c9bbabf.js:0
+[     679ms] [INFO] 2026-06-09T16:46:47.305Z [info] sqliteSchemaHelpers: attemptFastForwardMigration {data: Object} @ https://www.notion.so/_assets/app-cb743fad3ec11534.js:6
+[     693ms] [INFO] 2026-06-09T16:46:47.319Z [info] sqliteSchemaHelpers: successfulFastForwardMigration {data: Object} @ https://www.notion.so/_assets/app-cb743fad3ec11534.js:6
+[     740ms] [LOG] %c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.so/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” -- Ivan Zhao (2023-07-14)
+				  font-family: monospace @ https://www.notion.so/_assets/mainApp-65999bc7b698563d.js:37
+[     896ms] [INFO] 2026-06-09T16:46:47.521Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://www.notion.so/_assets/app-cb743fad3ec11534.js:6
+[     998ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client:86
+[     999ms] [ERROR] Not signed in with the identity provider. @ https://www.notion.so/login?redirectURL=%2Fprofile%2Fintegrations:0
+[    1022ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[    1023ms] [INFO] 2026-06-09T16:46:47.649Z [error] eventTrailApiHelpers: trackFailure {error: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[    3239ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:184
+[    3239ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:184
+[    3702ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.metadata.io/pixel/config/1127.json:0
+[    3933ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[   22439ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:184
+[   22439ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:184
+[   23039ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:184
+[   23039ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:184
+[   30572ms] [INFO] 2026-06-09T16:47:17.198Z [info] handleGoogleAuthRedirect: googleAuthRedirect {data: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[   30573ms] [INFO] 2026-06-09T16:47:17.198Z [info] handleGoogleAuthRedirect: googleAuthRedirectLoginAttempt {data: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[   30581ms] [WARNING] Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://app.notion.com') does not match the recipient window's origin ('https://www.notion.so'). @ https://www.notion.so/googlepopupcallback?state=eyJjYWxsYmFja1R5cGUiOiJwb3B1cCIsImVuY3J5cHRlZFRva2VuIjoidjAyOmxvZ2luX3dpdGhfZ29vZ2xlOkE5X2xBQzFVenR1VXBOZzVnaFRENDZhWnNCQXBsUWJmMlJmR1pEUFRHVjllMUIxX1hobTJrQ01BU2hFZ0UxX2l2UnU4NXVGbk4yVDFvN2xCV1ZwRHVaTXpFRlZndnJJa3hvSTBmdmQ4N1ZqdGZXemEtMDEwNlI5YXdiYU1tNzgyQVMxNyIsIm9yaWdpbmFsRG9tYWluIjoiaHR0cHM6Ly93d3cubm90aW9uLnNvIiwiY2xpZW50SWQiOiI5MDUxNTQwODE4MDktODU4c20zZjBxbmFscWQ5ZDQ0ZDlnZWNqdHJkamk5dGYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vd3d3Lm5vdGlvbi5zby9nb29nbGVwb3B1cGNhbGxiYWNrIn0%3D&iss=https%3A%2F%2Faccounts.google.com&code=4%2F0AdkVLPxZNQfxkIoLA_CAjMG2XPBz90U_IsY3Lg0uC3wiB2b95wUEBZNwzG-SxOe50Ajc-A&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent:0
+[   30863ms] [INFO] 2026-06-09T16:47:17.489Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[   32375ms] [INFO] 2026-06-09T16:47:19.000Z [warning] loginActions: initializeUserAnalyticsTimeout {data: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[   32997ms] [INFO] 2026-06-09T16:47:19.623Z [error] main: ClientError {error: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[   32997ms] Error: Failed to load a required record: user_root, 37ad872b-594c-81d9-ad28-0002c7f5ffef, undefined.
+    at Object.loadRecordModel [as loadFn] (https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:5:83405)
+    at async https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:188:21885
+    at async Promise.all (index 0)
+    at async o (https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:188:21826)
+    at async r (https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:188:21437)
+    at async Object.s (https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:188:22598)
+    at async Object.r (https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:5:82979)
+    at async h (https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:86:100654)
+    at async r.measureErrors (https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:185:1212591)
+    at async g (https://www.notion.so/_assets/5685-a23a2ac40263a95d.js:86:98749)
+[   33020ms] [INFO] 2026-06-09T16:47:19.646Z [info] syncRecordValuesBatched: missingSpacePointerForNotionUserRequest {actor: Object, data: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[   33405ms] [INFO] 2026-06-09T16:47:20.031Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472
+[   63409ms] [INFO] 2026-06-09T16:47:50.034Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://www.notion.so/_assets/76406-6b42df3763f56eeb.js:472

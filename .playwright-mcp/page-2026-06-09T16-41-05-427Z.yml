@@ -1,0 +1,57 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e88]: Platzi Flix
+  - button "Open Next.js Dev Tools" [ref=e94] [cursor=pointer]:
+    - img [ref=e95]
+  - generic [ref=e269]:
+    - banner [ref=e270]:
+      - generic [ref=e271]: PLATZI
+      - generic [ref=e272]: FLIX
+      - generic [ref=e273]: CURSOS
+    - generic [ref=e274]: PLATZI
+    - generic [ref=e275]: FLIX
+    - main [ref=e276]:
+      - generic [ref=e277]:
+        - link [ref=e278] [cursor=pointer]:
+          - /url: /course/curso-de-react
+          - article [ref=e279]:
+            - img "Curso de React" [ref=e281]
+            - generic [ref=e282]:
+              - heading "Curso de React" [level=2] [ref=e283]
+              - paragraph [ref=e284]: Aprende React desde cero hasta convertirte en un desarrollador profesional
+              - 'img "Rating: 4.0 out of 5 stars, 1 ratings" [ref=e286]':
+                - generic [ref=e287]:
+                  - img [ref=e289]
+                  - img [ref=e292]
+                  - img [ref=e295]
+                  - img [ref=e298]
+                  - img [ref=e301]
+                - generic "1 ratings" [ref=e303]: (1)
+        - link [ref=e304] [cursor=pointer]:
+          - /url: /course/curso-de-python
+          - article [ref=e305]:
+            - img "Curso de Python" [ref=e307]
+            - generic [ref=e308]:
+              - heading "Curso de Python" [level=2] [ref=e309]
+              - paragraph [ref=e310]: Domina Python y sus frameworks más populares
+              - 'img "Rating: 5.0 out of 5 stars, 1 ratings" [ref=e312]':
+                - generic [ref=e313]:
+                  - img [ref=e315]
+                  - img [ref=e318]
+                  - img [ref=e321]
+                  - img [ref=e324]
+                  - img [ref=e327]
+                - generic "1 ratings" [ref=e329]: (1)
+        - link [ref=e330] [cursor=pointer]:
+          - /url: /course/curso-de-javascript
+          - article [ref=e331]:
+            - img "Curso de JavaScript" [ref=e333]
+            - generic [ref=e334]:
+              - heading "Curso de JavaScript" [level=2] [ref=e335]
+              - paragraph [ref=e336]: JavaScript moderno y sus mejores prácticas
+              - 'img "Rating: 0.0 out of 5 stars" [ref=e338]':
+                - generic [ref=e339]:
+                  - img [ref=e341]
+                  - img [ref=e344]
+                  - img [ref=e347]
+                  - img [ref=e350]
+                  - img [ref=e353]
